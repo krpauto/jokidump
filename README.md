@@ -1,2 +1,2 @@
 # jokidump
-Joki Dump warung.krp2
+warung.krp2
